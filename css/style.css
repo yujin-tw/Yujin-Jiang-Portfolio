@@ -74,7 +74,7 @@ body {
 	z-index: 10;
 }
 
-/* About page */
+/* ⛰ About page */
 .about-wrap{
 	width: 93.34vw;
 	padding-top: clamp(5.5rem, 3vh, 115.2px);
@@ -156,7 +156,7 @@ body {
 	text-decoration: none;
 }
 
-/* Contact Page */
+/* 📞Contact Page */
 .contact-wrap{
 	padding-top: min(25.6vw, 7.25rem);
 	margin: 0 auto 0;
@@ -200,7 +200,7 @@ address{
 	color: var(--hover-color);
 }
 
-/* Copyright Box */
+/* 📝 Copyright Box */
 .copyright{
 	padding: 6.3vh 3.2vw 0;
 	max-width: 880px;
