@@ -82,11 +82,13 @@
 }
 
 .next >ul >li >a{
-	color: inherit;
+  color: inherit;
+  display: block;
+  width: fit-content;
 	text-decoration: none;
 }
 
-/* Desktop Media Query */
+/* 💻 Desktop Media Query */
 @media only screen 
 	and (min-width: 1200px) 
 	and (max-width: 2880px) 
@@ -149,7 +151,7 @@
   
 }
 
-/* iPad Media Query */
+/* 📔 iPad Media Query */
 @media only screen 
   and (min-device-width: 768px) 
   and (max-device-width: 1024px) 
