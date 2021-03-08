@@ -7,4 +7,3 @@
   <li>Check the Release section for details regarding the updates.</li>
 </ul>
 <br>
-**Learning how to manage the code changes with VS code and Github everyday.**
